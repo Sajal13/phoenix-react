@@ -1,0 +1,1 @@
+import{PA as s,Su as a,Sv as t,Sw as e}from"./index-CX5qyL3S.js";const o=()=>s.jsx(a,{conversations:t,children:s.jsx("div",{className:"chat d-flex gap-3",children:s.jsx(e,{})})});export{o as default};
